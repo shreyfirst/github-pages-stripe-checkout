@@ -473,6 +473,7 @@ pre {
 /* Custom */
 .sr-container {
   display: flex;
+  justify-content: center;
 }
 .container {
   border: 1px solid #e8e8e8;
